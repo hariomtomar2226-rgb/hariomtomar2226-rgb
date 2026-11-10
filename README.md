@@ -1,6 +1,6 @@
-### Hi 👋, I'm Hariom Tomar
+# Hi 👋, I'm Hariom Tomar
 
- Aspiring Data Analyst | SQL | Power BI | Excel | Python
+ ## Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
 Turning raw data into meaningful insights through analytics, visualization, and business intelligence.
 ________________________________________________________________________________________________________________________________________
@@ -15,15 +15,14 @@ Currently building real-world projects to strengthen my analytical skills and pr
 
 # 🛠️ Technical Skills
 
-
-    # Data Analysis & BI
+## Data Analysis & BI
 
     - SQL
     - Power BI
     - Excel
     - Tableau
 
-    # Programming & Databases
+## Programming & Databases
 
     - Python
     - MySQL
@@ -31,7 +30,7 @@ Currently building real-world projects to strengthen my analytical skills and pr
 ________________________________________________________________________________________________________________________________________
 # 📂 Featured Projects
 
-# 🎬 Netflix User Analytics Dashboard
+## 🎬 Netflix User Analytics Dashboard
 
 Tools: MySQL, SQL, Power BI, DAX
 
@@ -41,7 +40,7 @@ Implemented DAX measures and interactive filters
 Delivered business insights through visualization
 
 
-# 🛒 Global Retail Sales Performance Analysis
+## 🛒 Global Retail Sales Performance Analysis
 
 Tools: Excel, Power Query
 
@@ -50,7 +49,7 @@ Analyzed revenue, profitability, and customer trends
 Built interactive reports for performance monitoring
 
 
-# 📊 Sales Performance Data Quality Assessment
+## 📊 Sales Performance Data Quality Assessment
 Tools: Power Query, Tableau
 
 Conducted data quality audits
@@ -58,7 +57,7 @@ Identified inconsistencies and missing values
 Developed Tableau dashboards for reporting and monitoring
 
 
-# 🦺 Behavior-Based Safety (BBS) Analysis Dashboard
+## 🦺 Behavior-Based Safety (BBS) Analysis Dashboard
 Tools: Excel, Power Query
 
 Analyzed workplace safety observations
