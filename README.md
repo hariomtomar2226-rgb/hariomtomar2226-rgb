@@ -3,10 +3,11 @@ Hi 👋, I'm Hariom Tomar
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
 Turning raw data into meaningful insights through analytics, visualization, and business intelligence.
-
+________________________________________________________________________________________________________________________________________
 
 
 🚀 About Me
+
 I am an aspiring Data Analyst with a background in Agriculture and a strong interest in transforming raw data into actionable business insights.
 My expertise includes SQL, Power BI, Excel, Python, Tableau, and data visualization. I enjoy working on analytics projects involving data cleaning, data modeling, KPI tracking, dashboard development, and business performance analysis.
 Currently building real-world projects to strengthen my analytical skills and preparing for opportunities in Data Analytics and Business Intelligence.
@@ -18,7 +19,7 @@ SQLPower BIExcelTableau
 Programming & Databases
 PythonMySQL
 
-
+________________________________________________________________________________________________________________________________________
 📂 Featured Projects
 
 🎬 Netflix User Analytics Dashboard
@@ -55,15 +56,7 @@ Analyzed workplace safety observations
 Monitored safe and unsafe behaviors
 Developed dashboards to support safety improvement initiatives
 
-
-📈 GitHub Statistics
-
-🎯 Current Focus
-✅ Advanced SQL Queries & Window Functions
-✅ Power BI Data Modeling & DAX
-✅ Dashboard Storytelling & Visualization
-✅ Business Analytics Projects
-✅ Supply Chain Analytics Project
+________________________________________________________________________________________________________________________________________
 
 
 🌐 Connect With Me
