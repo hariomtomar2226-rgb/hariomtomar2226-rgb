@@ -51,10 +51,12 @@ Tools: MySQL, SQL, Power BI, DAX
 
 Tools: Excel, Power Query
 
-Cleaned and transformed retail sales data
-Analyzed revenue, profitability, and customer trends
-Built interactive reports for performance monitoring
-
+•	Analyzed **51,000+** retail sales records Built a **4-page interactive Excel dashboard** covering sales, profit,<br>
+  market concentration, category performance, profit margins, and YoY growth.
+•	Identified **29 loss-making countries** and **quantified their impact**, showing they reduced overall business profitability <br>
+  by **23.4%**.
+•	Performed profitability and **root-cause analysis** across regions, countries, and product categories, providing **recommendations**<br> on pricing, operational efficiency, and market prioritization.
+ 
 
 ### 📊 Sales Performance Data Quality Assessment
 Tools: Power Query, Tableau
