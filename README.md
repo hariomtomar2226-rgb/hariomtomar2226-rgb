@@ -13,11 +13,11 @@ My work spans data extraction, cleaning, ETL, relational data modelling, explora
 and interactive dashboard development.
 
 
-I enjoy exploring data to identify patterns, investigate performance gaps, uncover business trends and translate analytical findings into actionable recommendations.
+I enjoy exploring data to identify patterns, investigate performance gaps, uncover business trends and translate analytical findings into **actionable recommendations**.
 
-My approach combines technical execution with business-oriented thinking, ensuring that analysis goes beyond reporting numbers to explain what they mean and where improvements can be made.
+My approach combines technical execution with business-oriented thinking, ensuring that **analysis goes beyond reporting numbers** to explain what they mean and where improvements can be made.
 
-I am particularly interested in applying data analytics and business intelligence to real-world business problems, improving reporting processes and helping organizations make better-informed decisions.
+I am particularly interested in **applying data analytics and business intelligence** to real-world business problems, **improving reporting processes** and **helping organizations make better-informed decisions**.
 
 
 ## 🛠️ Technical Skills
