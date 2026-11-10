@@ -8,10 +8,16 @@ ________________________________________________________________________________
 
 ## 🚀 About Me
 
-I am a Data Analyst with **hands-on experience developing** end-to-end analytics solutions through independent projects. My work spans data extraction, cleaning, ETL, relational data modelling, exploratory analysis, business performance assessment and interactive dashboard development.
+I am a Data Analyst with **hands-on experience developing** end-to-end analytics solutions through independent projects.<br>
+My work spans data extraction, cleaning, ETL, relational data modelling, exploratory analysis, business performance assessment<br>
+and interactive dashboard development.
 
 
-I focus on transforming complex datasets into meaningful insights that support business understanding and data-driven decision-making.
+I enjoy exploring data to identify patterns, investigate performance gaps, uncover business trends and translate analytical findings into actionable recommendations.
+
+My approach combines technical execution with business-oriented thinking, ensuring that analysis goes beyond reporting numbers to explain what they mean and where improvements can be made.
+
+I am particularly interested in applying data analytics and business intelligence to real-world business problems, improving reporting processes and helping organizations make better-informed decisions.
 
 
 ## 🛠️ Technical Skills
