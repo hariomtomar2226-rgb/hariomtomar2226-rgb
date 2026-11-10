@@ -1,36 +1,36 @@
-# Hi 👋, I'm Hariom Tomar
+## Hi 👋, I'm Hariom Tomar
 
- ## Aspiring Data Analyst | SQL | Power BI | Excel | Python
+Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
 Turning raw data into meaningful insights through analytics, visualization, and business intelligence.
 ________________________________________________________________________________________________________________________________________
 
 
-# 🚀 About Me
+## 🚀 About Me
 
 I am an aspiring Data Analyst with a background in Agriculture and a strong interest in transforming raw data into actionable business insights.
 My expertise includes SQL, Power BI, Excel, Python, Tableau, and data visualization. I enjoy working on analytics projects involving data cleaning, data modeling, KPI tracking, dashboard development, and business performance analysis.
 Currently building real-world projects to strengthen my analytical skills and preparing for opportunities in Data Analytics and Business Intelligence.
 
 
-# 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-## Data Analysis & BI
+### Data Analysis & BI
 
     - SQL
     - Power BI
     - Excel
     - Tableau
 
-## Programming & Databases
+### Programming & Databases
 
     - Python
     - MySQL
 
 ________________________________________________________________________________________________________________________________________
-# 📂 Featured Projects
+## 📂 Featured Projects
 
-## 🎬 Netflix User Analytics Dashboard
+### 🎬 Netflix User Analytics Dashboard
 
 Tools: MySQL, SQL, Power BI, DAX
 
@@ -40,7 +40,7 @@ Implemented DAX measures and interactive filters
 Delivered business insights through visualization
 
 
-## 🛒 Global Retail Sales Performance Analysis
+### 🛒 Global Retail Sales Performance Analysis
 
 Tools: Excel, Power Query
 
@@ -49,7 +49,7 @@ Analyzed revenue, profitability, and customer trends
 Built interactive reports for performance monitoring
 
 
-## 📊 Sales Performance Data Quality Assessment
+### 📊 Sales Performance Data Quality Assessment
 Tools: Power Query, Tableau
 
 Conducted data quality audits
@@ -57,7 +57,7 @@ Identified inconsistencies and missing values
 Developed Tableau dashboards for reporting and monitoring
 
 
-## 🦺 Behavior-Based Safety (BBS) Analysis Dashboard
+### 🦺 Behavior-Based Safety (BBS) Analysis Dashboard
 Tools: Excel, Power Query
 
 Analyzed workplace safety observations
@@ -67,7 +67,7 @@ Developed dashboards to support safety improvement initiatives
 ________________________________________________________________________________________________________________________________________
 
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 
 📧 Email: hariomtomar2226@gmail.com
