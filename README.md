@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hariom Tomar
+### Hi 👋, I'm Hariom Tomar
 
  Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
