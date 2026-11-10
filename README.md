@@ -9,10 +9,16 @@ ________________________________________________________________________________
 ## 🚀 About Me
 
 I am a Data Analyst focused on **transforming raw data into meaningful business insights and supporting data-driven decision-making**.
-My work goes beyond dashboard development. 
-I enjoy working across the **analytics lifecycle** — <br>
+
+
+My work goes beyond dashboard development.<br>
+I enjoy working across the **analytics lifecycle** — 
+
+
 from data extraction, cleaning and ETL to relational data modelling,<br>
 exploratory analysis, KPI development and interactive business intelligence solutions.
+
+
 Currently building **real-world projects** to strengthen my analytical skills and preparing for *opportunities in Data Analytics and Business Intelligence*.
 
 
