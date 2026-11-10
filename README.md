@@ -16,13 +16,13 @@ Currently building real-world projects to strengthen my analytical skills and pr
 🛠️ Technical Skills
 
 
-Data Analysis & BI
+    Data Analysis & BI
 
-SQLPower BIExcelTableau
+    SQLPower BIExcelTableau
 
-Programming & Databases
+    Programming & Databases
 
-PythonMySQL
+    PythonMySQL
 
 ________________________________________________________________________________________________________________________________________
 📂 Featured Projects
