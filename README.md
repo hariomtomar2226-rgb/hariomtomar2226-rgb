@@ -55,7 +55,7 @@ Tools: Excel, Power Query
   market concentration, category performance, profit margins, and YoY growth.
 -	Identified **29 loss-making countries** and **quantified their impact**, showing they reduced overall business profitability <br>
   by **23.4%**.
--	Performed profitability and **root-cause analysis** across regions, countries, and product categories, providing **recommendations**<br> on **pricing, operational efficiency, and market prioritization**.
+-	Performed profitability and **root-cause analysis** across regions, countries, and product categories, providing                        <br>**recommendations**  on **pricing, operational efficiency, and market prioritization**.
  
 
 ### 📊 Sales Performance Data Quality Assessment
