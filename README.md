@@ -39,10 +39,13 @@ ________________________________________________________________________________
 
 Tools: MySQL, SQL, Power BI, DAX
 
-Performed content and user behavior analysis
-Created KPI-driven dashboard
-Implemented DAX measures and interactive filters
-Delivered business insights through visualization
+•	Built an end-to-end analytics solution for 2,500+ customer records.
+•	Designed a  data warehouse comprising a staging layer and a star-schema relational database with 1 fact table and 4 dimension tables  
+  in MySQL.
+•	Performed ETL, data transformation, and business validation checks, including revenue reconciliation, duplicate detection, null-value   assessment, and date consistency validation.
+•	Developed a 3-page executive Power BI dashboard with 15+ KPIs analyzing customer demographics, subscriptions,revenue,geography,
+  device usage, and growth trends.
+
 
 
 ### 🛒 Global Retail Sales Performance Analysis
