@@ -8,7 +8,7 @@ ________________________________________________________________________________
 
 ## 🚀 About Me
 
-I am an aspiring Data Analyst with a background in Agriculture and a strong interest in transforming raw data into actionable business insights.
+I am an aspiring Data Analyst with a background in Agriculture and a **strong interest**in transforming raw data into actionable business insights.
 My expertise includes SQL, Power BI, Excel, Python, Tableau, and data visualization. I enjoy working on analytics projects involving data cleaning, data modeling, KPI tracking, dashboard development, and business performance analysis.
 Currently building real-world projects to strengthen my analytical skills and preparing for opportunities in Data Analytics and Business Intelligence.
 
