@@ -39,12 +39,11 @@ ________________________________________________________________________________
 
 Tools: MySQL, SQL, Power BI, DAX
 
-•	Built an end-to-end analytics solution for 2,500+ customer records.
-•	Designed a  data warehouse comprising a staging layer and a star-schema relational database with 1 fact table and 4 dimension tables  
-  in MySQL.
-•	Performed ETL, data transformation, and business validation checks, including revenue reconciliation, duplicate detection, null-value   assessment, and date consistency validation.
-•	Developed a 3-page executive Power BI dashboard with 15+ KPIs analyzing customer demographics, subscriptions,revenue,geography,
-  device usage, and growth trends.
+-	Built an end-to-end analytics solution for **2,500+** customer records.
+-	Designed a  data warehouse comprising a **staging layer** and **a star-schema relational database** with 1 fact table and<br>
+  4 dimension tables in MySQL.
+-	Performed **ETL, data transformation, and business validation checks**, including revenue reconciliation, duplicate detection,<br>      null-value assessment, and date consistency validation.
+-	Developed a **3-page executive Power BI dashboard** with **15+ KPIs** analyzing customer demographics, subscriptions, revenue,<br>      geography, device usage, and growth trends.
 
 
 
