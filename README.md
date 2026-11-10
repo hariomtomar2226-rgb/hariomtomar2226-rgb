@@ -1,8 +1,11 @@
 Hi 👋, I'm Hariom Tomar
+
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
+
 Turning raw data into meaningful insights through analytics, visualization, and business intelligence.
 
 LinkedInGmailNaukri
+
 
 🚀 About Me
 I am an aspiring Data Analyst with a background in Agriculture and a strong interest in transforming raw data into actionable business insights.
