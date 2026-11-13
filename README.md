@@ -66,12 +66,11 @@ Tools: Excel, Power Query
 
 
 
-### 🦺 Behavior-Based Safety (BBS) Analysis Dashboard
-Tools: Excel, Power Query
+### 🦺 Behavior-Based Safety (BBS) Analysis Dashboard  |  Excel, Power Query
+-	Cleaned, transformed, and unpivoted a **real-world workplace safety checklist dataset**, classifying observations as **Safe** and **Unsafe** for analysis. 
+-	Created a category mapping table to consolidate **32+ safety checklist** measures into **10 business-friendly safety categories**, enabling clearer reporting and visualization. 
+-	**Analyzed 292 safety observations covering 605 employees** Built an **interactive dashboard to monitor compliance rates across workplaces**, safety categories, observers, and inspection measures.
 
-Analyzed workplace safety observations
-Monitored safe and unsafe behaviors
-Developed dashboards to support safety improvement initiatives
 
 ________________________________________________________________________________________________________________________________________
 
