@@ -61,8 +61,8 @@ Tools: Excel, Power Query
 ### 📊 Sales Performance Data Quality Assessment | Power Query, Tableau
 -	Analyzed **5 years of sales data (2014-2018)** Built a **2-page Tableau dashboard** with KPI tracking, trend analysis,<br>
   geographic sales, distribution, year-over-year comparison and warehouse distribution.
--	**Investigated** an apparent **2018 sales decline*** by validating data completeness and **comparing historical November-December sales patterns**.
--	Estimated the **impact of missing December records**, demonstrating that the observed decline was largely influenced by incomplete data rather than<br>        actual business underperformance.
+-	**Investigated** an apparent **2018 sales decline*** by validating data completeness and **comparing historical November-December <br>sales patterns**.
+-	Estimated the **impact of missing December records**, demonstrating that the observed decline was largely influenced by incomplete data rather than            actual business underperformance.
 
 
 
