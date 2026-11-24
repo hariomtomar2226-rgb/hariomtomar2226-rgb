@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hariomtomar2226-rgb/hariomtomar2226-rgb/main/assets/Linkdin Cover Page 2.png"
+<img src="https://raw.githubusercontent.com/hariomtomar2226-rgb/hariomtomar2226-rgb/main/assets/Linkdin Cover Page _copy2.png"
      width="100%"
      alt="Hariom Tomar - Data Analyst Banner" />
 
