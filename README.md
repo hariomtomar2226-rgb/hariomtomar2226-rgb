@@ -95,6 +95,8 @@ I am particularly interested in applying data analytics and business intelligenc
 </p>
 
 ---
+<br>
+<br>
 
 
 <h3>📂 Featured Projects</h3>
