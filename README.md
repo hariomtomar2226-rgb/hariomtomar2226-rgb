@@ -21,6 +21,10 @@
 <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
 <img src="https://img.shields.io/badge/Naukri-View%20Profile-2874F0?style=for-the-badge&logoColor=white" />
 </a>
+&nbsp;
+<a href="https://hariomtomar2226-rgb.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-238636?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
 </div>
 
@@ -92,7 +96,13 @@ I am particularly interested in applying data analytics and business intelligenc
 
 ---
 
-<h3>📂 Featured Projects</h3>
+<h3>
+📂 Featured Projects
+&nbsp;
+<a href="https://hariomtomar2226-rgb.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-Visit_Website-238636?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+</h3> 
 
 ### 🎬 Netflix User Analytics Dashboard
 
