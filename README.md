@@ -1,7 +1,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,40:14213D,100:315A91&text=Hariom%20Tomar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/hariomtomar2226-rgb/hariomtomar2226-rgb/main/assets/Linkdin Cover Page 2.png"
+     width="100%"
+     alt="Hariom Tomar - Data Analyst Banner" />
+
+</div>
 
 
 
