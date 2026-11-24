@@ -96,13 +96,15 @@ I am particularly interested in applying data analytics and business intelligenc
 
 ---
 
-<h3>
-📂 Featured Projects
-&nbsp;
+
+<h3>📂 Featured Projects</h3>
+
+<p>
 <a href="https://hariomtomar2226-rgb.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/VIEW_PORTFOLIO-Visit_Website-238636?style=flat-square&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐_EXPLORE_MY_PORTFOLIO-View_Live_Website-0969DA?style=for-the-badge&labelColor=161B22" alt="Explore My Portfolio" />
 </a>
-</h3> 
+</p>
+
 
 ### 🎬 Netflix User Analytics Dashboard
 
