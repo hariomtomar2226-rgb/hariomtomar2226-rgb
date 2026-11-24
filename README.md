@@ -1,27 +1,29 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hariomtomar2226-rgb/hariomtomar2226-rgb/main/assets/Linkdin Cover Page _copy2.png"
+<img src="https://raw.githubusercontent.com/hariomtomar2226-rgb/hariomtomar2226-rgb/main/assets/Linkdin%20Cover%20Page%20_copy2.png"
      width="100%"
      alt="Hariom Tomar - Data Analyst Banner" />
 
-</div>
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Data+Analyst+%7C+Turning+Data+into+Actionable+Insights;Data+Analyst+%7C+Uncovering+Patterns+That+Drive+Growth;Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python"
+     alt="Professional tagline animation" />
 
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Data+Analyst+%7C+Turning+Data+into+Actionable+Insights;Data+Analyst+%7C+Uncovering+Patterns+That+Drive+Growth;Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Professional tagline animation" />
-
-</div>
-
-<a href="https://www.linkedin.com/in/hariom-tomar-b2021b19b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/hariom-tomar-b2021b19b/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-<a href="mailto:hariomtomar2226@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:hariomtomar2226@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-<a href="https://www.naukri.com/mnjuser/profile?id=&altresid"><img src="https://img.shields.io/badge/Naukri-View%20Profile-2874F0?style=for-the-badge&logoColor=white" /></a>
+<a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
+<img src="https://img.shields.io/badge/Naukri-View%20Profile-2874F0?style=for-the-badge&logoColor=white" />
+</a>
 
 </div>
+
 
 ---
 
