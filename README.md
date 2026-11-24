@@ -5,9 +5,11 @@
 
 
 
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1400&color=58A6FF&center=false&vCenter=true&width=540&height=30&lines=Turning+Data+into+Actionable+Insights;Uncovering+Patterns+That+Drive+Growth;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Professional tagline animation" align="middle" />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1400&color=58A6FF&center=true&vCenter=true&width=760&height=40&lines=Data+Analyst+%7C+Turning+Data+into+Actionable+Insights;Data+Analyst+%7C+Uncovering+Patterns+That+Drive+Growth;Data+Analyst+%7C+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Professional tagline animation" />
+
+</div>
 
 <a href="https://www.linkedin.com/in/hariom-tomar-b2021b19b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
