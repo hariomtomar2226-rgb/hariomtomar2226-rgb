@@ -4,10 +4,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,40:14213D,100:315A91&text=Hariom%20Tomar&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20ANALYST&descAlignY=60&descSize=16&animation=fadeIn" />
 
-<h3>Transforming Data into Meaningful Business Insights</h3>
+
 
 <p>
-<strong>Data Analyst |</strong>
 <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=18&pause=1400&color=58A6FF&center=false&vCenter=true&width=540&height=30&lines=Turning+Data+into+Actionable+Insights;Uncovering+Patterns+That+Drive+Growth;SQL+%E2%80%A2+Power+BI+%E2%80%A2+Tableau+%E2%80%A2+Python" alt="Professional tagline animation" align="middle" />
 </p>
 
